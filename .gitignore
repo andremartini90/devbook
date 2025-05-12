@@ -1,0 +1,22 @@
+# Dependências do Go
+/go.sum
+/go.mod
+
+# Binários
+*.exe
+*.out
+*.o
+
+# Arquivos temporários
+*.tmp
+*.log
+*.swp
+
+# Diretórios
+bin/
+obj/
+
+# Configurações locais
+.env
+.idea/
+.vscode/
